@@ -12,3 +12,15 @@ However, if you put anything other than a number in the string you're trying to 
 #ANONYMOUS FUNCTION
 
 Anonymous functions don't have names, so they need to be tied to something, a variable, or an event, or something similar to run. 
+
+#Const
+
+const can't be changed once defined
+
+#let
+
+let is a block scope variable.If you want to limit the scope of a variable to just one code block, use let.
+
+#<var>
+
+If you need a general global or local variable, use var.
