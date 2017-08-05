@@ -24,3 +24,7 @@ let is a block scope variable.If you want to limit the scope of a variable to ju
 #var
 
 If you need a general global or local variable, use var.
+
+#Dot and Bracket notation
+
+Dot notation works well for properly named properties. Bracket notation works well for when we might have to convert the property name into a string. You can use these both at any time to do the same thing and you can mix them inside the code. You don't have to choose one over the other. But you have the option and any time you encounter something weird like WP:image remember bracket notation is there to solve your problem. 
