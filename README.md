@@ -21,6 +21,6 @@ const can't be changed once defined
 
 let is a block scope variable.If you want to limit the scope of a variable to just one code block, use let.
 
-#<var>
+#var
 
 If you need a general global or local variable, use var.
